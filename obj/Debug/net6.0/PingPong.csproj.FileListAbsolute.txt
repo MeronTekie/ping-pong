@@ -1,0 +1,15 @@
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/PingPong.csproj.AssemblyReference.cache
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/PingPong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/PingPong.AssemblyInfoInputs.cache
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/PingPong.AssemblyInfo.cs
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/PingPong.csproj.CoreCompileInputs.cache
+/Users/ramenimo/Desktop/ping-pong/bin/Debug/net6.0/PingPong
+/Users/ramenimo/Desktop/ping-pong/bin/Debug/net6.0/PingPong.deps.json
+/Users/ramenimo/Desktop/ping-pong/bin/Debug/net6.0/PingPong.runtimeconfig.json
+/Users/ramenimo/Desktop/ping-pong/bin/Debug/net6.0/PingPong.dll
+/Users/ramenimo/Desktop/ping-pong/bin/Debug/net6.0/PingPong.pdb
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/PingPong.dll
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/refint/PingPong.dll
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/PingPong.pdb
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/PingPong.genruntimeconfig.cache
+/Users/ramenimo/Desktop/ping-pong/obj/Debug/net6.0/ref/PingPong.dll
